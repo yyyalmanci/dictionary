@@ -1,4 +1,4 @@
-package com.falanapp.dictionary.ui
+package com.falanapp.dictionary.ui.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
