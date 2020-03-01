@@ -41,7 +41,7 @@
                 android:layout_height="?attr/actionBarSize"
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                app:title="Dictionary"></androidx.appcompat.widget.Toolbar>
+                app:title="Dictionary" />
 
         </com.google.android.material.appbar.CollapsingToolbarLayout>
 
